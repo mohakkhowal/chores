@@ -1,5 +1,5 @@
 # **chores**
-
+Deployed at - https://chores-56201.web.app
 ### Stupid Flatmates.
 Star the repo, if you find the catch! xD
 
